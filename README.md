@@ -2,70 +2,59 @@
 <h3 align="center">Flutter Developer 📱 | Software Engineer 💻</h3>
 
 <p align="center">
-  Passionate about building scalable mobile applications using Flutter & Firebase 🚀  
-  Focused on clean architecture, performance, and modern UI/UX.
+  I build modern, scalable mobile applications using Flutter & Firebase 🚀
 </p>
 
 ---
 
-## 🚀 About Me
-- 📱 Flutter Developer specialized in cross-platform apps  
-- 🔥 Experienced with Firebase & REST APIs  
-- 💡 Interested in AI-powered apps & smart solutions  
-- 🎯 Currently working on real-world mobile applications  
-- 🌍 Based in Egypt  
+## 👨‍💻 About Me
+- 📱 Flutter Developer with focus on cross-platform apps
+- 🔥 Experienced in Firebase, REST APIs & Clean Architecture
+- 🎯 Passionate about building real-world mobile applications
+- 💡 Interested in AI-powered apps & smart systems
+- 🌍 Based in Egypt
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=interesta22&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=interesta22&theme=dark&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=interesta22&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
----
-
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,flask,git,github,vscode,figma,postman,gradle,canva" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,flask,git,github,vscode,figma,postman,gradle" />
 </p>
+
+---
+
+## 📱 What I Do
+- Build high-performance Flutter apps
+- Integrate APIs & backend services
+- Design clean and responsive UI
+- Optimize app performance & architecture
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedabdulaziz10/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:asdwarbaakott@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   <a href="https://wa.me/201278576046" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="45"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=interesta22&theme=darkhub&no-frame=true&margin-w=10"/>
-</div>
+## 🚀 Featured Skills
+- Flutter & Dart
+- Firebase (Auth, Firestore, Notifications)
+- REST API Integration
+- State Management (Provider / Bloc)
+- Git & GitHub Workflow
+- UI/UX with Figma
 
 ---
 
-## 👀 Profile Views
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=interesta22.interesta22" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/interesta22/interesta22/output/snake.svg" alt="snake animation"/>
-</div>
+## ✨ Fun Fact
+I can turn an idea into a real mobile app using Flutter in record time ⚡
